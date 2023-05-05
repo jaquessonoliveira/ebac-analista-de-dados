@@ -213,4 +213,6 @@ Aula 2: Wrangling
 
 Aula 3: Componentes
 
+---
+
 > **Obs: O conteúdo trabalhado entre os módulos 01 e 27 correspondem ao conteúdo de Python para Análise de Dados, nos módulos seguintes, que não foram documentados aqui, pois as aulas foram feitas na plataforma da AWS (Amazon Web Service) e Google Data Studio, estudamos sobre a linguagem de consulta SQL, Análise de dados para inteligência de negócios (Visualização interativa de dados no Google Data Studio), e computação em nuvem e Big Data, que foram documentados nos projetos 2, 3 e 4 do curso Analista de dados da EBAC, e podem ser encontrados aqui no Github, ou no meu perfil do Kaggle.**
